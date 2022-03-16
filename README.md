@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @SeliScripter
+- 👀 I’m interested in Gaming/Coding
+- 🌱 I’m currently learning COding/Scripting
